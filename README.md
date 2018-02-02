@@ -4,7 +4,7 @@
 
 You need to install several things before starting:
 * pip for python 3
-* google cloud api for python
+* google api for python
 
 ```
 sudo apt install python3-pip
