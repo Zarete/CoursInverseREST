@@ -3,14 +3,6 @@ import httplib2
 from apiclient import discovery
 import GMAILCredentials
 from pprint import pprint
-import requests
-
-# GMAIL Account : onfaitlescours@gmail.com
-# MDP           : bioinformatique
-
-# INSTALL :  sudo apt install python3-pip
-# INSTALL : pip3 install --upgrade google-api-python-client
-
 
 def main():
     """
