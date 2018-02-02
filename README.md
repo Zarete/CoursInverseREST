@@ -56,3 +56,7 @@ Goal : Display all the messages contained into the 'INBOX' folder
 ### Exercise 3 (for the glory)
 
 Goal : Display only the messages coming FROM a given mail address
+
+## Some Help
+
+Documentation : https://developers.google.com/gmail/api/v1/reference/
