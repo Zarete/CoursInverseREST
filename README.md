@@ -33,7 +33,7 @@ First you need to set up the credentials by running the unmodified script **main
 python3 main.py
 ```
 
-A pop-up window will appear and you add to use the email and password given previously.
+A pop-up window will appear in which you have to enter the email and password given previously.
 
 If everything is fine you should have a new page notifying that the connection is allowed.
 
